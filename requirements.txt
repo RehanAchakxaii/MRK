@@ -1,4 +1,0 @@
-python-binance==1.0.29
-python-dotenv==1.1.1
-python-telegram-bot==20.3
-cryptography==45.0.5
